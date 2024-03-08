@@ -1,0 +1,3 @@
+Este arquivo foi gerado pelo Jupyter Notebook
+Podemos gerar quantas linhas quisermos e o Jupyter grava no arquivo final.
+Meu arquivo original tem count_row linhas e count_col colunas.

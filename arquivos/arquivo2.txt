@@ -1,0 +1,1 @@
+Ops, tudo que estava aqui foi sobescrito pois abri o arquivo já existente somente no modo escrita.
